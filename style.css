@@ -1,0 +1,17 @@
+html , body {
+    background-color: rgb(57, 62, 66);
+    margin: 0;
+    padding: 0;
+}
+
+
+.box {
+    background-color:rgb(255, 255, 255);
+    margin: 20px;
+    padding: 20px;
+}
+
+.center {
+    max-width: 700px;
+    margin: auto;
+}
